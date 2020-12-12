@@ -1,0 +1,15 @@
+<?php
+	coll '
+		{	
+			"answers" : 
+			[
+				[
+					"Frank", 0
+				]
+				,
+				[
+					"Kathe", 1
+				]
+			]
+		}
+	`;
